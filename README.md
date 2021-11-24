@@ -1,8 +1,6 @@
 # PreCSS [<img src="https://postcss.github.io/postcss/logo.svg" alt="PostCSS Logo" width="90" height="90" align="right">][postcss]
 
 [![NPM Version][npm-img]][npm-url]
-[![Build Status][cli-img]][cli-url]
-[![Support Chat][git-img]][git-url]
 
 [PreCSS] lets you use Sass-like markup and staged CSS features in CSS.
 
@@ -142,7 +140,7 @@ PreCSS is powered by the following plugins (in this order):
 [git-img]: https://img.shields.io/badge/chat-gitter-blue.svg
 [git-url]: https://gitter.im/postcss/postcss
 [npm-img]: https://img.shields.io/npm/v/precss.svg
-[npm-url]: https://www.npmjs.com/package/precss
+[npm-url]: https://www.npmjs.com/package/precss-v8
 
 [Gulp PostCSS]: https://github.com/postcss/gulp-postcss
 [Grunt PostCSS]: https://github.com/nDmitry/grunt-postcss
