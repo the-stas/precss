@@ -4,7 +4,7 @@
   "description": "Use Sass-like markup and staged CSS features in CSS",
   "author": "Jonathan Neal <jonathantneal@hotmail.com> and The Stas",
   "license": "CC0-1.0",
-  "repository": "the-stas/precss/",
+  "repository": "the-stas/precss",
   "homepage": "https://github.com/the-stas/precss/#readme",
   "bugs": "https://github.com/the-stas/precss/issues",
   "main": "index.js",
